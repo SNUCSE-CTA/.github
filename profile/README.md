@@ -12,28 +12,27 @@
 
 [Computer Theory and Applications Lab @ Seoul National University](http://theory.snu.ac.kr/)
 -->
-
 # NP-hard Framework
 
 [Computer Theory and Applications Lab @ Seoul National University](http://theory.snu.ac.kr/)
 
 ## Table of Contents
-- [Algorithms](#algorithms)
-  - [DAF](#daf)
-  - [VEQ_S](#veq_s)
-  - [BICE](#bice)
-  - [IDAR](#idar)
-  - [SymBi](#symbi)
-  - [DiversifiedSubgraphQuerying](#diversifiedsubgraphquerying)
-  - [GSSBBB](#gssbbb)
-- [Applications](#applications)
-  - [ChemSearch](#chemsearch)
-  - [SocialNetworkAnalysis](#socialnetworkanalysis)
-  - [SubQP](#subqp)
-  - [CompoundSearch](#compoundsearch)
-- [Tools](#tools)
-  - [graph-analysis-tool](#graph-analysis-tool)
-  - [graph-generation-tool](#graph-generation-tool)
+- Algorithms
+  - [DAF](https://github.com/SNUCSE-CTA/DAF)
+  - [VEQ_S](https://github.com/SNUCSE-CTA/VEQ_S)
+  - [BICE](https://github.com/SNUCSE-CTA/BICE)
+  - [IDAR](https://github.com/SNUCSE-CTA/IDAR)
+  - [SymBi](https://github.com/SNUCSE-CTA/SymBi)
+  - [DiversifiedSubgraphQuerying](https://github.com/SNUCSE-CTA/DiversifiedSubgraphQuerying)
+  - [GSSBBB](https://github.com/SNUCSE-CTA/GSSBBB)
+- Applications
+  - [ChemSearch](https://github.com/SNUCSE-CTA/ChemSearch)
+  - [SocialNetworkAnalysis](https://github.com/SNUCSE-CTA/SocialNetworkAnalysis)
+  - [SubQP](https://github.com/SNUCSE-CTA/SubQP)
+  - [CompoundSearch](https://github.com/SNUCSE-CTA/CompoundSearch)
+- Tools
+  - [graph-analysis-tool](https://github.com/SNUCSE-CTA/graph-analysis-tool)
+  - [graph-generation-tool](https://github.com/SNUCSE-CTA/graph-generation-tool)
 
 ## Algorithms
 
@@ -92,4 +91,3 @@
 ### graph-generation-tool
 - Repository: https://github.com/SNUCSE-CTA/graph-generation-tool
 - Focus: Graph generation.
-
