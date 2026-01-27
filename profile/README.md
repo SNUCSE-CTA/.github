@@ -10,11 +10,12 @@
   - Subgraph 쿼리 프로세싱 SW - [SubQP](https://github.com/SNUCSE-CTA/SubQP)
   - 그래프 유사 분석 SW - [ChemSearch](https://github.com/SNUCSE-CTA/ChemSearch)
 - 알고리즘
-  - Subgraph isomorphism - [DAF](https://github.com/SNUCSE-CTA/DAF), [VEQ_S](https://github.com/SNUCSE-CTA/VEQ_S), [BICE](https://github.com/SNUCSE-CTA/BICE)
+  - Subgraph isomorphism - [DAF](https://github.com/SNUCSE-CTA/DAF), [BICE](https://github.com/SNUCSE-CTA/BICE)
   - Supergraph search - [IDAR](https://github.com/SNUCSE-CTA/IDAR)
   - Continuous subgraph matching - [SymBi](https://github.com/SNUCSE-CTA/SymBi)
   - Diversified top-k subgraph querying - [DiversifiedSubgraphQuerying](https://github.com/SNUCSE-CTA/DiversifiedSubgraphQuerying)
   - Graph similarity search - [GSSBBB](https://github.com/SNUCSE-CTA/GSSBBB)
 - 자료구조/툴
+  - 자료구조 구축 - [graphDSLibrary](https://github.com/SNUCSE-CTA/graphDSLibrary)
   - 그래프 생성 - [graph-generation-tool](https://github.com/SNUCSE-CTA/graph-generation-tool)
   - 그래프 통계 분석 - [graph-analysis-tool](https://github.com/SNUCSE-CTA/graph-analysis-tool)
