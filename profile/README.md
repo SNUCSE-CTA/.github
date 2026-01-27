@@ -19,3 +19,4 @@
   - 자료구조 구축 - [graphDSLibrary](https://github.com/SNUCSE-CTA/graphDSLibrary)
   - 그래프 생성 - [graph-generation-tool](https://github.com/SNUCSE-CTA/graph-generation-tool)
   - 그래프 통계 분석 - [graph-analysis-tool](https://github.com/SNUCSE-CTA/graph-analysis-tool)
+  - 그래프 인덱싱 - [graph-indexing-library](https://github.com/SNUCSE-CTA/graph-indexing-library)
