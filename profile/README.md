@@ -15,6 +15,7 @@
   - Continuous subgraph matching - [SymBi](https://github.com/SNUCSE-CTA/SymBi)
   - Diversified top-k subgraph querying - [DiversifiedSubgraphQuerying](https://github.com/SNUCSE-CTA/DiversifiedSubgraphQuerying)
   - Graph similarity search - [GSSBBB](https://github.com/SNUCSE-CTA/GSSBBB)
+  - Subgraph query processing - [VEQ_S](https://github.com/SNUCSE-CTA/VEQ_S)
 - 자료구조/툴
   - 자료구조 구축 - [graphDSLibrary](https://github.com/SNUCSE-CTA/graphDSLibrary)
   - 그래프 생성 - [graph-generation-tool](https://github.com/SNUCSE-CTA/graph-generation-tool)
