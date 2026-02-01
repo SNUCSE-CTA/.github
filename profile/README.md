@@ -1,4 +1,4 @@
-# NP-hard 통합 프레임워크
+# NP-hard 그래프 문제를 위한 실용적인 알고리즘 프레임워크  <br> (Framework of Practical Algorithms for NP-hard Graph Problems)
 
 <p align="center">
   <img src="../nphardframework.jpg" alt="nphardframework" width="70%" />
@@ -10,12 +10,12 @@
   - Subgraph 쿼리 프로세싱 SW - [SubQP](https://github.com/SNUCSE-CTA/SubQP)
   - 그래프 유사 분석 SW - [ChemSearch](https://github.com/SNUCSE-CTA/ChemSearch)
 - 알고리즘
-  - Subgraph isomorphism - [DAF](https://github.com/SNUCSE-CTA/DAF), [BICE](https://github.com/SNUCSE-CTA/BICE)
+  - Subgraph isomorphism - [DAF](https://github.com/SNUCSE-CTA/DAF)
   - Supergraph search - [IDAR](https://github.com/SNUCSE-CTA/IDAR)
   - Continuous subgraph matching - [SymBi](https://github.com/SNUCSE-CTA/SymBi)
   - Diversified top-k subgraph querying - [DiversifiedSubgraphQuerying](https://github.com/SNUCSE-CTA/DiversifiedSubgraphQuerying)
   - Graph similarity search - [GSSBBB](https://github.com/SNUCSE-CTA/GSSBBB)
-  - Subgraph query processing - [VEQ_S](https://github.com/SNUCSE-CTA/VEQ_S)
+  - Subgraph query processing - [VEQ_S](https://github.com/SNUCSE-CTA/VEQ_S), [BICE](https://github.com/SNUCSE-CTA/BICE)
 - 자료구조/툴
   - 자료구조 구축 - [graphDSLibrary](https://github.com/SNUCSE-CTA/graphDSLibrary)
   - 그래프 생성 - [graph-generation-tool](https://github.com/SNUCSE-CTA/graph-generation-tool)
