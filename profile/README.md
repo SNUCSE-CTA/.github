@@ -9,6 +9,7 @@
   - 화합물 검색 SW - [CompoundSearch](https://github.com/SNUCSE-CTA/CompoundSearch)
   - Subgraph 쿼리 프로세싱 SW - [SubQP](https://github.com/SNUCSE-CTA/SubQP)
   - 그래프 유사 분석 SW - [ChemSearch](https://github.com/SNUCSE-CTA/ChemSearch)
+  - PPI 분석 SW - [predictPPI](https://github.com/SNUCSE-CTA/predictPPI)
 - 알고리즘
   - Subgraph isomorphism - [DAF](https://github.com/SNUCSE-CTA/DAF)
   - Supergraph search - [IDAR](https://github.com/SNUCSE-CTA/IDAR)
